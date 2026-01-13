@@ -9,15 +9,15 @@ AISparkStack 是一个开源矩阵，围绕「简单易用」「可复用」「�
 
 ## 🧭 Matrix Map（项目总览）
 
-### ⭐ Pinned（建议置顶 6 个仓库）
-- **spark-roadmap**：你正在看的这个仓库（索引 / 路线图 / 贡献入口）
+### ⭐ Pinned（置顶 6 个仓库）
+- **spark-roadmap**：索引 / 路线图 / 贡献入口
 - **spark-template**：通用模板（所有项目通用的骨架与规范）
 - **spark-starter**：统一“开箱即用”入口（端到端最小闭环示例）
 - **spark-toolkit**：可复用工具库（跨项目共用）
 - **spark-rag-starter**：RAG 示例工程（写教程、做内容的最佳抓手）
 - **spark-evals**：评测/基准（专家形象与可验证能力）
 
-> 说明：仓库命名不放 tech。具体技术栈写在各仓库 README，并用 GitHub Topics 标注（如 go / flutter / unity / unreal / hardware 等）。
+> 说明：具体技术栈写在各仓库 README，并用 GitHub Topics 标注（如 go / flutter / unity / unreal / hardware 等）。
 
 ---
 
@@ -66,7 +66,7 @@ AISparkStack 是一个开源矩阵，围绕「简单易用」「可复用」「�
 
 ---
 
-## 🚀 Getting Started（从零开始：最短路径）
+## 🚀 Getting Started
 
 ### Step 1：从模板创建新项目
 1. 打开 **spark-template**
@@ -111,7 +111,7 @@ AISparkStack 是一个开源矩阵，围绕「简单易用」「可复用」「�
 
 ---
 
-## 🤝 Contributing（如何参与）
+## 🤝 Contributing（如何参与？）
 - 从 `good first issue` 开始（我们会优先把任务拆成可协作颗粒度）
 - 提交 PR 前请确保：
   - 能本地跑通（或说明无法跑通的原因）
@@ -130,7 +130,7 @@ AISparkStack 是一个开源矩阵，围绕「简单易用」「可复用」「�
 
 ## 📣 Follow / Updates（关注更新）
 - Release：以 GitHub Releases 为准
-- 讨论：Issues / Discussions（建议开启）
+- 讨论：Issues / Discussions
 
 ---
 
